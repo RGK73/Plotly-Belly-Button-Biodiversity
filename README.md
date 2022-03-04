@@ -17,5 +17,6 @@ In this module , we have used the power of javascript to create data visualisati
 
 Finally we have deployed a data visualisation to the web while using the power of the javascript:
 
-![alt text]()
-![alt text]()
+![alt text](https://github.com/RGK73/Plotly-Belly-Button-Biodiversity/blob/main/Belly%20Button%20Biodiversity%20Dashboard_2.png)
+
+![alt text](https://github.com/RGK73/Plotly-Belly-Button-Biodiversity/blob/main/Belly%20Button%20Biodiversity%20Dashboard.png)
