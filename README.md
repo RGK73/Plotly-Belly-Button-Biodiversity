@@ -1,6 +1,6 @@
 # Plotly-Belly-Button-Biodiversity
 
-## the purpose:
+## The purpose:
 
 Create basic plots with Plotly, including bar charts, line charts, and pie charts.
 Use D3.json() to fetch external data, such as CSV files and web APIs.
@@ -10,6 +10,8 @@ Use JavaScript's Math library to manipulate numbers.
 Use event handlers in JavaScript to add interactivity to a data visualization.
 How to use interactivity to enhance your visualizations.
 Deploy an interactive chart to GitHub Pages.
+
+### Synopsis:
 
 In this module , we have learned how to craete data visualizations for the web. As a data professional we not only need to analyse data and draw conclusions from them but also need to visualise the data in order to communicate the findings to an audience. Although tools like pandas and matpl,otlib are very powerful, data findings are njot easy to share as they can be. In order to intereact with the data , our audience usually needs to have Python installed on their computer.
 
