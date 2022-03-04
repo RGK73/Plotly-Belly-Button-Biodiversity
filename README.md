@@ -15,4 +15,7 @@ In this module , we have learned how to craete data visualizations for the web. 
 
 In this module , we have used the power of javascript to create data visualisations that are attractive , accessible, and interactive. We have used ployly.js, a javascript data visualisation library . Libraries like plotly offers interactivity which can help audience better understand our data and draw the same conclusion that we did.We have also built on our javascript foundation to manipulate , parse , and transform data. We have used javascript to create interactive features such as buttons and dropdown menus as well as to retrieve data from external sources like csv files and APIs.
 
-finally we have deployed a polished data visualisation to the web while using the power of the javascript.
+Finally we have deployed a data visualisation to the web while using the power of the javascript:
+
+![alt text]()
+![alt text]()
