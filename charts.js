@@ -85,9 +85,7 @@ function buildCharts(sample) {
         text: labels 
     }];
     // 9. Create the layout for the bar chart. 
-    var barLayout = {
-      title: "Top 10 Bacteria Cultures Found"
-    };
+    var barLayout = {title:{text:"<b>Top 10 Bacteria Cultures Found</b>"}};
     
     //For making website mobile friendly
     var config = {responsive:true};
@@ -116,7 +114,7 @@ function buildCharts(sample) {
 
     // 2. Create the layout for the bubble chart.
     var bubbleLayout = {
-        title: "Bacteria Cultures Per Sample",
+        title:{text:"<b>Bacteria Cultures Per Sample</b>"},
         xaxis: {title: "OTU ID"},
         automargin: true,
         hovermode: "closest"
