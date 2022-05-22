@@ -2,6 +2,8 @@
 
 ## The purpose:
 
+https://rgk73.github.io/Plotly-Belly-Button-Biodiversity/
+
 Create basic plots with Plotly, including bar charts, line charts, and pie charts.
 Use D3.json() to fetch external data, such as CSV files and web APIs.
 Parse data in JSON format.
